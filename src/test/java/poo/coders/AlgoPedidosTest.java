@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 public class AlgoPedidosTest {
     @Test
-    void 01PruebaSebas() {
+    public void pruebaSebas() {
         Assertions.assertTrue(true);
     }
 }
